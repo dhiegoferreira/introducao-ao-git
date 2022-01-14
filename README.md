@@ -31,7 +31,7 @@ Este é um repositório de anotações sobre como utilizar o git.
  - 2. Colocar o nome do repositório
  - 3. Pegar o link https do repositório git
 
-*  $ **git remote add** origin "endereço htpps criado pelo gitgub do repositório
+*  $ **git remote add** origin "endereço htpps criado pelo GitHub do repositório
 *  $ **git remote -v** : retorna a lista de repositório cadastrados
 *  $ **git push origin master** : Envia o repositório local para o repositório no GitHub.
   

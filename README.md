@@ -8,11 +8,11 @@ Este é um repositório de anotações sobre como utilizar o git.
 ### References: https://git-scm.com/book/pt-br/v2
 
 #### Comandos:
-$ git init  (cria-se um repositório na pasta selecionada para o arquivos que se quer monitorar) 
+> $ git init  (cria-se um repositório na pasta selecionada para o arquivos que se quer monitorar) 
 $ ls -a (exibe arquivos ocultos)
 $ git add arquivos.extensão  (adiciona  os arquivos que se deseja monitorar)
 $ git  commit -m “nome para o commit”  ex: Initial project version”
-$ git config --global user.email “dhiegoferreira31415@gmail.com”
+$ git config --global user.email “seuemail@email.com”
 $ git config --global user.name 
 $ git add . (adiciona todos os arquivos do diretório selecionado)
 

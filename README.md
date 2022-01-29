@@ -3,6 +3,10 @@ Este é um repositório de anotações sobre como utilizar o git.
 
 ### Iniciando o Git e criando um commit
 
+
+### Tutorial: https://fullcycle.com.br/git-e-github/
+### References: https://git-scm.com/book/pt-br/v2
+
 #### Comandos:
 - $ git init  : cria-se um repositório na pasta selecionada para o arquivos que se quer monitorar 
 - $ ls -a (exibe arquivos ocultos)

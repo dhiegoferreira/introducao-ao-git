@@ -1,11 +1,14 @@
 # introducaoaogit 💻
 Este é um repositório de anotações sobre como utilizar o git.
 
-### Iniciando o Git e criando um commit
 
 ### References:
 - https://git-scm.com/book/pt-br/v2
 - https://fullcycle.com.br/git-e-github/
+
+
+
+### Iniciando o Git e criando um commit
 ### Comando iniciais:
 
 

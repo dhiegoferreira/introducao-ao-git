@@ -3,8 +3,9 @@ Este é um repositório de anotações sobre como utilizar o git.
 
 ### Iniciando o Git e criando um commit
 
-### References: https://git-scm.com/book/pt-br/v2
-
+### References:
+- https://git-scm.com/book/pt-br/v2
+- https://fullcycle.com.br/git-e-github/
 ### Comando iniciais:
 
 
